@@ -48,7 +48,7 @@ export default function TransitionDemoTest() {
         </div>
       )}
 
-      <Form method="post" reloadDocument>
+      <Form method="post">
         <input type="text" name="value" placeholder="Type something"></input>
         <button type="submit">Submit me</button>
       </Form>
